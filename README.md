@@ -49,12 +49,12 @@ This will render a field base on type value on settings table.
 
 ### Currently supported types
 
-* Text
-* Date
-* Boolean
-* Textarea
-* Trix
-* Code
+* Text ( text )
+* Date ( date )
+* Boolean ( boolean )
+* Textarea ( textarea )
+* Trix ( trix )
+* Code ( code )
     * `->json()` is supported.
     * `->language('php')` is supported.
 
